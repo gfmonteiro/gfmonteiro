@@ -5,7 +5,7 @@ Me chamo Gustavo Fabiano Monteiro, tenho 25 anos e sou do interior de SP.<br>
 Concluí meu ensino superior em A.D.S (Análise e Desenvolvimento de Sistemas) no final de 2022.<br>
 Gosto muito do mundo TEC, estou empenhado em sempre buscar conhecimento na área de atuação.<br>
 Nov 2020 - Fev 2025 -> Analista de Suporte<br>
-Fev 2025 - Em Andamento -> Programador Jr II 
+Fev 2025 - Em Andamento -> Programador Jr
 
 <p align="left">
     <a href="https://github.com/gfmonteiro?tab=repositories&sort=stargazers">
